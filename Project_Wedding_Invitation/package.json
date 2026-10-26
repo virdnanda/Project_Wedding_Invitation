@@ -1,0 +1,13 @@
+{
+  "name": "my-demon-wedding-scrapbook",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Undangan scrapbook Do Do-hee & Jung Gu-won dengan database RSVP JSON lokal.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
